@@ -71,8 +71,8 @@
     "@filecoin-shipyard/lotus-client-schema": "^0.0.14",
     "@glif/filecoin-number": "^2.0.0-beta.0",
     "@metamask/key-tree": "^6.0.0",
-    "@metamask/snaps-types": "^0.26.2",
-    "@zondax/filecoin-signing-tools": "^0.20.0",
+    "@metamask/snaps-types": "^3.1.0",
+    "@zondax/filecoin-signing-tools": "^2.1.1",
     "bn.js": "^5.1.2",
     "deepmerge": "^4.2.2"
   }
